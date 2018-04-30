@@ -249,7 +249,6 @@ PRODUCT_PACKAGES += \
     hostapd \
     wpa_supplicant \
     wpa_supplicant.conf \
-    hs20-osu-client \
     WCNSS_wlan_dictionary.dat
 
 PRODUCT_COPY_FILES += \
